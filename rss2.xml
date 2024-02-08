@@ -9,8 +9,31 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>下个路口再见吧</description>
-    <pubDate>Wed, 07 Feb 2024 15:29:02 GMT</pubDate>
+    <pubDate>Thu, 08 Feb 2024 05:58:07 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>我的第一篇博文</title>
+      <link>http://example.com/2024/02/08/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</link>
+      <guid>http://example.com/2024/02/08/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</guid>
+      <pubDate>Thu, 08 Feb 2024 05:56:36 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;这是我的第一篇博文，本站开始运行了&lt;/p&gt;
+</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>这是我的第一篇博文，本站开始运行了</p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://example.com/2024/02/08/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>pagecategories</title>
