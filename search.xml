@@ -4,6 +4,71 @@
   
     
     <entry>
+      <title>实训笔记1.26</title>
+      <link href="/2024/02/08/%E5%AE%9E%E8%AE%AD%E7%AC%94%E8%AE%B01-26/"/>
+      <url>/2024/02/08/%E5%AE%9E%E8%AE%AD%E7%AC%94%E8%AE%B01-26/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>实训笔记1.25</title>
+      <link href="/2024/02/08/%E5%AE%9E%E8%AE%AD%E7%AC%94%E8%AE%B01-25/"/>
+      <url>/2024/02/08/%E5%AE%9E%E8%AE%AD%E7%AC%94%E8%AE%B01-25/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>实训笔记1.24</title>
+      <link href="/2024/02/08/%E5%AE%9E%E8%AE%AD%E7%AC%94%E8%AE%B01-24/"/>
+      <url>/2024/02/08/%E5%AE%9E%E8%AE%AD%E7%AC%94%E8%AE%B01-24/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>实训笔记1.23</title>
+      <link href="/2024/02/08/%E5%AE%9E%E8%AE%AD%E7%AC%94%E8%AE%B01-23/"/>
+      <url>/2024/02/08/%E5%AE%9E%E8%AE%AD%E7%AC%94%E8%AE%B01-23/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>实训笔记1.22</title>
+      <link href="/2024/02/08/%E5%AE%9E%E8%AE%AD%E7%AC%94%E8%AE%B01-22/"/>
+      <url>/2024/02/08/%E5%AE%9E%E8%AE%AD%E7%AC%94%E8%AE%B01-22/</url>
+      
+        <content type="html"><![CDATA[<p>大数据都是JAVA在做<br>工作：技术，性格，人情世故<br>B&#x2F;S C&#x2F;S   大数据方向不行<br>java三年经验，有可能包装<br>大数据三年经验，对真实经验要求高，大学生刚开始从事较难<br>嵌入式的就业市场不清晰，火，学完后可能失业，硬件太贵<br>java后台领域 NO.1<br>TIOBE 专门统计编程语言 Java基数和别的语言不是一个量级<br>安卓以前用java 现在用Kotlin 中国java46%使用 在日本70%</p><p>快捷键<br>ctrl+a全选 +b加粗 +c复制 +f查找 +v粘贴 +s保存 +x剪切 +z撤销<br>windows<br>windows+l锁屏 +r+cmd进入dos命令行 +e 打开我的电脑 +d快速切回到桌面</p><p>DOS常用命令<br>dir显示当前目录中的文件<br>cd 切换路径<br>ipconfig：查看当前网络IP<br>javac：编译<br>java：运行</p><p>环境8.0 IEDA2020版本<br>把环境配置好</p><p>Runtime.getRuntime().exec(“shutdown -s -t 3600”);自动关机<br>Runtime.getRuntime().exec(“shutdown -a”);取消关机<br>Runtime.getRuntime().exec(“shutdown -p”);直接关机</p><p>大厂实习 走校招 需要掌握技能<br>Java EE 实习需要掌握<br>Java SE（数组，面向对象（封装继承多态，抽象）接口，异常，多线程（问的多《并发编程的艺术》），集合（大概率问底层源码，例如ArrayList，HashMap，ConcirrentHashmap），IO流（输入&#x2F;输出）网络编程（AIO，BIO）JVM（java虚拟机《深入理解Java虚拟机》））<br>设计模式（常用23种设计模式—（5-6种）单例设计模式5中实习方式）<br>数据库（性能优化，索引）<br>java Web 一些东西（session和cookie）<br>Linux操作系统 常用的一些命令<br>SSM（Spring（IOC AOP） Spring MVC MyBatis）、<br>Spring Boot 微服务（自动配置原理+整合第三方组件）<br>第三方插件 Redis缓存 MQ 消息队列 搜索 ES<br>1-2个项目（非垃圾项目，不要出现在简历当中）<br>有一个分布式项目 Dubbo Spring Cloud Alibaba 绝对是加分项<br>2023秋招10月份  美团实习岗 没有笔试！<br>日常实习岗，知识点：Spring Boot 一线城市（实习工资：200-300&#x2F;天  4400-6600&#x2F;月）<br>1.对java EE 的知识点有一个宏观的认识。（知道学习那些东西）（强调不要只背八股文）<br>2.去多面试-好处，积累面经<br>3.多加（技术交流群）——可能有内推，多交搞技术的朋友（资源，人脉）<br>4.信息差-大厂实习，校招（烟草，电网 等你知道消息，基本已经结束了）未来校招，不要只盯着本学校，（理工大）<br>5.实习或者校招，公司更多关注”学习能力，沟通能力”——跟面试官有话聊！（很重要）<br>6.对于知识点的把握，（为什么要用这个东西，使用前是什么样的，使用后是什么样的，她的好处，能够解决什么问题？）<br>7.项目（最重要）：面试官更重要的是想看你的简历中的项目是不是自己写的（就算不是自己写的，也要对项目非常的了解）<br>8.对面试中的面试官所提的面试题，你并不是所有都能答上来（可能面试你的人，他也不知道）10道答出6-7优秀，4-5可以了</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我的第一篇博文</title>
       <link href="/2024/02/08/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/"/>
       <url>/2024/02/08/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</url>
